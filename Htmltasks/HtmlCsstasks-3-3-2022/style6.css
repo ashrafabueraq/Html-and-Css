@@ -1,0 +1,16 @@
+.d1 {
+    background-color: yellow;
+    height: 44px;
+    width: 54px;
+    border: 2px solid;
+    display: inline-block;
+}
+.d2{
+    background-color:green;
+    height: 44px;
+    width: 54px;
+    border: 2px solid;
+    display: inline-block;
+    position: relative;
+    top: 25px;
+}
