@@ -1,0 +1,35 @@
+body{
+    background-color: green;
+}
+h1{
+    color: white;
+    
+    position: absolute;
+    left: 709px;
+    top: 350px;
+    font-size: 46px;
+}
+.d3{
+
+    
+    background-color: yellow;
+    height: 670px;
+    width: 27px;
+}
+.d1 {
+    background-color: yellow;
+    height: 27px;
+}
+.d4 {
+    background-color: yellow;
+    height: 25px;
+}
+.d2{
+    
+    background-color: yellow;
+    height: 670px;
+    width: 27px;
+    position: absolute;
+    left: 1501px;
+}
+
