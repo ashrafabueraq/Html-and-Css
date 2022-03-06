@@ -1,0 +1,23 @@
+div{
+    background-color: orangered;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    border: 3px solid black;
+    animation-name: cycle;
+    animation-duration: 3s;
+    position: relative;
+}
+@keyframes cycle{
+    0%{
+        left: 0px; top: 0px;
+    }
+    50%{
+        left: 200px; top: 0px;
+    }
+    100%{
+        right: 200px; left: 0px;
+    }
+
+
+}

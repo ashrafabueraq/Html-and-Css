@@ -1,0 +1,29 @@
+div{
+    background-color: rgb(111, 0, 255);
+    width: 200px;
+    height: 200px;
+    animation-name: square;
+    animation-duration: 4s;
+    position: relative;
+    border-radius: 10px;
+}
+@keyframes square{
+    0%{
+        background-color: aqua;
+        left: 0px; top: 0px;
+    }
+    50%{
+        background-color: brown;
+        left: 300px; top: 0px;
+    }
+    75%{
+        background-color: burlywood;
+        left: 300px; top: 300px;
+    }
+    100%{
+        background-color: red;
+        left: 0px; top: 300px;
+    }
+
+
+}
