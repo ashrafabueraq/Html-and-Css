@@ -1,0 +1,14 @@
+#parent{
+    width: 100%;
+    height: auto;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    gap: 15px;
+
+}
+img{
+    
+    height: 30vh;
+}

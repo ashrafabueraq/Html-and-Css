@@ -1,0 +1,85 @@
+body{
+    background-color: orange;
+}
+
+#parent{
+    background-color: white;
+    height: 725px;
+    
+    display: flex;
+    flex-wrap: wrap;
+}
+#d1{
+    background-color: green;
+   width: 25%;
+   color: white;
+   font-size: 150px;
+   text-align: center;
+
+}
+#d2{
+    background-color:yellow;
+    width: 25%;
+    color: white;
+   font-size:  150px;
+   text-align: center;
+
+}
+#d3{
+    background-color:purple;
+    width: 25%;
+    color: white;
+   font-size: 150px;
+   text-align: center;
+}
+#d4{
+    background-color:grey;
+    width: 25%;
+    color: white;
+   font-size: 150px;
+   text-align: center;
+}
+#d5{
+    background-color:blue;
+    width:25%;
+    color: white;
+   font-size:  150px;
+   text-align: center;
+
+}
+#d6{
+    background-color: orange;
+    width: 25%;
+    color: white;
+   font-size:  150px;
+   text-align: center;
+
+}
+#d7{
+    background-color: papayawhip;
+    width: 25%;
+    color: white;
+   font-size:  150px;
+   text-align: center;
+}
+#d8{
+    background-color: red;
+    width:25%;
+    color: white;
+   font-size: 150px;
+   text-align: center;
+}
+#d9{
+    background-color: darkred;
+    width:25%;
+    color: white;
+   font-size: 150px;
+   text-align: center;
+}
+#d10{
+    background-color:lightgreen;
+    width:25%;
+    color: white;
+   font-size: 150px;
+   text-align: center;
+}
